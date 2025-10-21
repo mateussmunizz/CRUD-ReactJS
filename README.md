@@ -1,5 +1,7 @@
-⚛️ CRUD de Usuários com ReactJS e JSON Server
+⚛️ **CRUD de Usuários com ReactJS e JSON Server**
+
 📄 Descrição do Projeto
+
 Este repositório apresenta o desenvolvimento de um Sistema Completo de Cadastro de Usuário (CRUD). O projeto foca na experiência do usuário e em uma navegação pragmática no Front-end, utilizando uma arquitetura moderna e baseada em componentes.
 
 ⚙️ Funcionalidades
@@ -17,12 +19,11 @@ Comunicação de Dados: Axios foi implementado para gerenciar as requisições H
 ✨ Destaques do Projeto
 O uso do ReactJS garantiu uma experiência de navegação rápida e suave, essencial para o foco em usabilidade. A integração do Axios simplificou o gerenciamento de estado e as chamadas assíncronas, permitindo que o desenvolvimento se concentrasse na lógica de negócio e na interface.
 
-Estrutura Adicional Recomendada:
-1. Pré-requisitos:
+ Pré-requisitos:
 
 Node.js e npm/yarn.
 
-2. Como Executar o Projeto:
+Como Executar o Projeto:
 
 Clone o repositório.
 
