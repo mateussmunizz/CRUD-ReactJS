@@ -26,7 +26,7 @@ Node.js npm/yarn.
 
 Como Executar o Projeto:
 
-Clone o repositório.
+Clone o repositório. [https://github.com/mateussmunizz/CRUD-ReactJS]
 
 Instale as dependências do projeto (no diretório principal):
 
