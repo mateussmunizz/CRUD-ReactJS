@@ -1,5 +1,6 @@
 ⚛️ **CRUD de Usuários com ReactJS e JSON Server**
 
+
 📄 Descrição do Projeto
 
 Este repositório apresenta o desenvolvimento de um Sistema Completo de Cadastro de Usuário (CRUD). O projeto foca na experiência do usuário e em uma navegação pragmática no Front-end, utilizando uma arquitetura moderna e baseada em componentes.
