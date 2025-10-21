@@ -19,7 +19,7 @@ Comunicação de Dados: Axios foi implementado para gerenciar as requisições H
 ✨ Destaques do Projeto
 O uso do ReactJS garantiu uma experiência de navegação rápida e suave, essencial para o foco em usabilidade. A integração do Axios simplificou o gerenciamento de estado e as chamadas assíncronas, permitindo que o desenvolvimento se concentrasse na lógica de negócio e na interface.
 
- Pré-requisitos:
+Pré-requisitos:
 
 Node.js e npm/yarn.
 
@@ -32,7 +32,7 @@ Instale as dependências do projeto (no diretório principal):
 Bash
 
 npm install
-# ou
+
 yarn
 Instale o JSON Server (globalmente, se preferir):
 
@@ -49,6 +49,6 @@ Inicie a aplicação React em outro terminal:
 Bash
 
 npm start
-# ou
+
 yarn start
 O projeto estará acessível no endereço padrão do React (ex: http://localhost:3000).
