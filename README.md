@@ -22,7 +22,7 @@ O uso do ReactJS garantiu uma experiência de navegação rápida e suave, essen
 
 Pré-requisitos:
 
-Node.js e npm/yarn.
+Node.js npm/yarn.
 
 Como Executar o Projeto:
 
@@ -50,6 +50,6 @@ Inicie a aplicação React em outro terminal:
 Bash
 
 npm start
-
+**ou**
 yarn start
 O projeto estará acessível no endereço padrão do React (ex: http://localhost:3000).
