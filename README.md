@@ -1,5 +1,53 @@
-Tecnologias: NodeJS Módulo JSON Server, ReactJS, Axios, JavaScript.
+⚛️ CRUD de Usuários com ReactJS e JSON Server
+📄 Descrição do Projeto
+Este repositório apresenta o desenvolvimento de um Sistema Completo de Cadastro de Usuário (CRUD). O projeto foca na experiência do usuário e em uma navegação pragmática no Front-end, utilizando uma arquitetura moderna e baseada em componentes.
 
-​Descrição: Desenvolvimento de um sistema completo de Cadastro de Usuário (CRUD), focado na experiência do usuário e na navegação pragmática do Front-end.
+⚙️ Funcionalidades
+O sistema implementa todas as operações essenciais para o gerenciamento de usuários: Inserir (Create), Consultar (Read), Alterar (Update) e Excluir (Delete) dados.
 
-​Realização: Utilização do NodeJS com JSON Server para simular o armazenamento e processamento dos dados no Back-end. No Front-end, o uso da biblioteca ReactJS permitiu uma navegação rápida e uma interface intuitiva. O Axios foi implementado para gerenciar as operações completas do CRUD (Inserir, Consultar, Alterar e Excluir) com o servidor.
+🛠️ Tecnologias Utilizadas
+A aplicação foi construída utilizando as seguintes ferramentas principais:
+
+Front-end: A biblioteca ReactJS foi utilizada para criar uma interface de usuário rápida, intuitiva e baseada em componentes. Todo o desenvolvimento Front-end utiliza JavaScript.
+
+Back-end Simulado: O NodeJS com o módulo JSON Server foi implementado para simular um servidor de dados, responsável pelo armazenamento e processamento das informações de usuário.
+
+Comunicação de Dados: Axios foi implementado para gerenciar as requisições HTTP de maneira eficiente. Ele é o responsável por toda a comunicação do Front-end (ReactJS) com o Back-end simulado (JSON Server), executando as operações completas do CRUD.
+
+✨ Destaques do Projeto
+O uso do ReactJS garantiu uma experiência de navegação rápida e suave, essencial para o foco em usabilidade. A integração do Axios simplificou o gerenciamento de estado e as chamadas assíncronas, permitindo que o desenvolvimento se concentrasse na lógica de negócio e na interface.
+
+Estrutura Adicional Recomendada:
+1. Pré-requisitos:
+
+Node.js e npm/yarn.
+
+2. Como Executar o Projeto:
+
+Clone o repositório.
+
+Instale as dependências do projeto (no diretório principal):
+
+Bash
+
+npm install
+# ou
+yarn
+Instale o JSON Server (globalmente, se preferir):
+
+Bash
+
+npm install -g json-server
+Inicie o Back-end (simulado), geralmente em uma porta específica:
+
+Bash
+
+json-server --watch db.json
+Inicie a aplicação React em outro terminal:
+
+Bash
+
+npm start
+# ou
+yarn start
+O projeto estará acessível no endereço padrão do React (ex: http://localhost:3000).
